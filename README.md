@@ -3,7 +3,7 @@
 
 ## Steps to install using CLI in VS Code
 
-> Create folder with your desired name for project. Here I am going with *http-api-minimal-student*
+> Create folder with your desired name for project. Here I am going with *'http-api-minimal-student'*
 >> ***dotnet new web***
 >
 > Command to create project without creating folder
