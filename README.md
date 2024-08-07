@@ -5,6 +5,6 @@
 
 > Create folder with your desired name for project. Here I am going with *http-api-minimal-student*
 >> ***dotnet new web***
-___
+>
 > Command to create project without creating folder
 >> ***dotnet new web -o 'your-project-name'***
